@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 
 # -------- Import Libraries ------------
 import dns.resolver
@@ -141,4 +140,5 @@ def main():
         print("Skipping subdomain enumeration.")
 
 if __name__ == "__main__":
+
     main()
