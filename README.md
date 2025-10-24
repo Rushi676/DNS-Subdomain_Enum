@@ -17,6 +17,6 @@ Performs DNS lookups (A, MX, TXT, etc.) and brute-force subdomain discovery usin
 ## 🧩 Installation
 
 ```bash
-git clone https://github.com/<your-username>/DNSHunter.git
-cd DNSHunter
+git clone https://github.com/<your-username>/DNS-Subdomain_Enum.git
+cd DNS-Subdomain_Enum
 pip install -r requirements.txt
